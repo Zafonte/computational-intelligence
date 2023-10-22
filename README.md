@@ -1,1 +1,1 @@
-# Computational Intelligence
+# Computational Intelligence course repository
