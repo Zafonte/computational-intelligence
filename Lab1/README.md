@@ -1,1 +1,1 @@
-LAB1: Set covering problem
+LAB1: set covering problem
