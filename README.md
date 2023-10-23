@@ -1,2 +1,2 @@
-# Computational Intelligence (01URROV) Politecnico di Torino course repository 
+# Computational Intelligence (01URROV) Politecnico di Torino course repository - Francesca Zafonte
 This repo contains my labs solutions. 
