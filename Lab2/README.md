@@ -11,6 +11,7 @@ It starts with a series of stacks containing a certain number of elements agreed
 3. It is not possible to skip the move.
 
 How Nim Game works: https://it.wikipedia.org/wiki/Nim
+
 NOTE: In my case, the player who takes the last element loses
 
 ## Lab 2
