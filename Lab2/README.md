@@ -4,7 +4,7 @@
 Is a game for two.
 It starts with a series of stacks containing a certain number of elements agreed upon at the beginning by the players.
 
- ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab2/nim%20.png)
+ ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab2/readme-images/nim%20.png)
 
 1. Players take turns removing any number of elements from any stack, from one to all, but without changing the other stacks.
 2. The player who removes the last element on the playing field loses. 
@@ -32,8 +32,9 @@ In addition, the delivery required using Gaussian mutation in order to perform e
 
 Currently my code does not work, but I am continuing to work on it to figure out what is wrong. 
 
-## Evolution strategy
-
 ## (μ,λ) - ES pseudocode
+ ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab2/readme-images/ES1.png)
+ 
 ## (μ+λ) - ES pseudocode
+ ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab2/readme-images/ES2.png)
 
