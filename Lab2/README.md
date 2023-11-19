@@ -1,2 +1,14 @@
-# Lab 2 - Francesca Zafonte
-## Nim game with evolution strategy (+ and ,) 
+# Nim game with evolution strategy (+ and ,) 
+
+## Nim Game
+Is a game for two.
+It starts with a series of stacks containing a certain number of elements agreed upon at the beginning by the players.
+
+![image](https://github.com/Zafonte/computational-intelligence/assets/70069620/a9dff7b5-3246-4a49-96ad-b3166988ad5a)
+
+
+1. Players take turns removing any number of elements from any stack, from one to all, but without changing the other stacks.
+2. 2. The player who removes the last element on the playing field loses. 
+3. It is not possible to skip the move.
+   
+## Evolution strategy
