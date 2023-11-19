@@ -10,7 +10,8 @@ It starts with a series of stacks containing a certain number of elements agreed
 2. The player who removes the last element on the playing field loses. 
 3. It is not possible to skip the move.
 
-https://it.wikipedia.org/wiki/Nim
+How Nim Game works: https://it.wikipedia.org/wiki/Nim
+NOTE: In my case, the player who takes the last element loses
 
 ## Lab 2
 The goal of the game is to **avoid** taking the last object.
