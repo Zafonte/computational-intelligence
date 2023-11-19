@@ -32,7 +32,8 @@ To each strategy I assign a winning percentage and a weight.
 My algorithm uses a fitness function to calculate the quality of each action where by quality I meant the player's winning percentage with the use of that specific strategy. 
 In addition, the delivery required using Gaussian mutation in order to perform exploration or exploitation, so I used sigma to go in and change the weight assigned to each strategy and specifically a small sigma value if the new solution is close to the old one in terms of "goodness, %win" and a large sigma value vice versa. 
 
-Currently my code does not work, but I am continuing to work on it to figure out what is wrong. 
+🥲 Currently my code does not work, but I am continuing to work on it to figure out what is wrong.
+I did my best, but I don't know python and I am learning it along with this course.
 
 ## (μ,λ) - ES pseudocode
  ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab2/readme-images/ES1.png)
