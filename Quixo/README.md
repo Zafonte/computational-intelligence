@@ -3,7 +3,7 @@
 >[!IMPORTANT]
 > This work was made with:
 > - [Ivan](https://github.com/ivanmag22/)
-> - [Francesca](https://github.com/Zafonte)
+> - [Matteo](https://github.com/Matteo-Pietro-Pillitteri/Computational-Intelligence)
 > - [Rita](https://github.com/class1c-j)
 
 ## Brief introduction
