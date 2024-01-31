@@ -319,6 +319,30 @@ A few tests were conducted training the agent against the Alpha-Beta player and 
      ![Screenshot](./results_images/win_2_5_rules_14_lambda_10_against_alpha.png)
 
 
+### Conclusions
+For this project we implemented *4 main approaches* and a few variants (MinMax, Alpha-Beta pruning, Monte-Carlo Reinforcement Learning, Q-Learning, Evolutionary Strategies with two differents training) aiming to cover the different paradigms we explored during the lectures and understand how they compare in the setting of learning to play a game (in this case Quixo).
+
+Analysing the results obtained with the different methods has allowed us better undestand the strenghts and weaknesses of each of the approaches, seamlessly complimenting the material we studied during the semester.
+
+Indeed we can say that the *best models* are:
+- **MinMax**
+- **Alpha-Beta pruning**
+- **ES**
+    - trained with all the rules against the Random Player
+    - trained against the Alpha Beta Player
+
+**MinMax** and **Alpha-Beta pruning** performances are expected since they make lots of computations to retrieve the best move to do.
+
+**ES** agent was a good finding! With good rules it behaves well and could win like 1-2 games over 10 against expert players like the previous ones.
+
+Also **Q-Learning agent** behaved well.
+
+Unfortunately the worst was the **Monte Carlo agent** even if we brought improvements like a reduced number of entries with symmetry and rotation and the introduction of two dictionaries, one if the player starts as first and the other if the player starts as second.
+
+As such, we were able to solve the proposed problem with success, while also consolidating our knowledge of the different paradigms we had learnt before.
+
+
+
 
 
 
