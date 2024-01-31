@@ -319,6 +319,7 @@ A few tests were conducted training the agent against the Alpha-Beta player and 
      ![Screenshot](./results_images/win_2_5_rules_14_lambda_10_against_alpha.png)
 
 
+
 ### Conclusions
 For this project we implemented *4 main approaches* and a few variants (MinMax, Alpha-Beta pruning, Monte-Carlo Reinforcement Learning, Q-Learning, Evolutionary Strategies with two differents training) aiming to cover the different paradigms we explored during the lectures and understand how they compare in the setting of learning to play a game (in this case Quixo).
 
