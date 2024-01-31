@@ -13,7 +13,7 @@ I decided to implement a Model free RL and particularly the Q-learning algorithm
 I defined the game state class and then created two players: one random and the other using Q-learning Reinforcement Learning. 
 
 In particular, I based on the following pseudocode from the book Essentials of Methauristic:
- ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab10/readme-images/Q_learning.png)
+ ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab10/readme-images/Q-learning.jpg)
 
  
 ### Resources:
