@@ -13,10 +13,10 @@ I decided to implement a Model free RL and particularly the Q-learning algorithm
 I defined the game state class and then created two players: one random and the other using Q-learning Reinforcement Learning. 
 
 In particular, I based on the following pseudocode from the book Essentials of Methauristic:
- ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab10/readme-images/)
+ ![image](https://github.com/Zafonte/computational-intelligence/blob/main/Lab10/readme-images/Q_learning.png)
 
  
-Resources:
+### Resources:
 https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542
 https://github.com/MJeremy2017/reinforcement-learning-implementation/blob/master/TicTacToe/tic-tac-toe.ipynb
 https://medium.com/@carsten.friedrich/part-3-tabular-q-learning-a-tic-tac-toe-player-that-gets-better-and-better-fa4da4b0892a
